@@ -1,0 +1,13 @@
+<?php
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Model;
+
+class SettingTranslation extends Model
+{
+
+    protected $fillable=['value','locale','setting_id'];
+
+    public $timestamps=false;
+}
