@@ -2,5 +2,6 @@
 
 return[
 
-    "settings"=>"الاعدادات",
+    "settings"=>"settings",
+    "shipping method"=>"shipping method",
 ];
